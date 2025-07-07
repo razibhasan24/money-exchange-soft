@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Lara Chini Chara</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
