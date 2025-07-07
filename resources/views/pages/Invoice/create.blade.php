@@ -60,7 +60,7 @@
                 <img src="https://via.placeholder.com/150x60?text=LOGO" alt="Logo" class="logo">
             </div>
             <div class="text-end">
-                <h3 class="mb-0">Global Money Exchange</h3>
+                <h2>💱 Money Exchange Sales Invoice</h2>
                 <p class="mb-0">Invoice #: INV-2025-001</p>
                 <small>Date: 05 July 2025</small>
             </div>

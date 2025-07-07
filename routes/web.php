@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Invoice\InvoiceController;
+use App\Http\Controllers\Purchase\PurchaseController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -8,3 +9,4 @@ Route::get('/', function () {
 });
 
 Route::resources(['invoices'=>InvoiceController::class]);
+Route::resources(['purchases'=>PurchaseController::class]);
